@@ -1,0 +1,11 @@
+flask_script
+Flask
+requests
+flask-sqlalchemy
+Flask-Migrate
+Flask-WTF
+psycopg2-binary
+boto3
+numpy
+python-dotenv
+gunicorn
